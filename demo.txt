@@ -1,0 +1,5 @@
+GIT (Creating a repository) steps
+	1. Create a directory
+	2. initialiaze a git repository by cl git init
+	3. add the file by gl git add
+	3. commit the file bly cl git -m "your txt here"
